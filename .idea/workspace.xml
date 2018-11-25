@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72f0938a-76f8-4da4-86ef-5a471b052fad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TCC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TCC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/classificador/svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/classificador/svm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/Apriori.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/SVM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/media/SVM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/SVM.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/media/SVM.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/pima_indians.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/media/pima_indians.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/pima_indians.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/registro.log" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/media/registro.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/media/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/utils/apriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/utils/apriori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/utils/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/utils/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcc/src/utils/normalizacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcc/src/utils/normalizacao.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2088987721">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bkp" value="2" />
+          <entry key="bkp2" value="2" />
+          <entry key="csv" value="57" />
+          <entry key="log" value="28" />
+          <entry key="py" value="221" />
+          <entry key="txt" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="51" />
+          <entry key="Log" value="27" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="221" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="33" />
+          <entry key="csv" value="37" />
+          <entry key="dummy" value="90" />
+          <entry key="log" value="6" />
+          <entry key="py" value="12786" />
+          <entry key="txt" value="173" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="21" />
+          <entry key="Log" value="6" />
+          <entry key="PLAIN_TEXT" value="279" />
+          <entry key="Python" value="12819" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TCC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tcc/src/classificador/svm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tcc/src/utils/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tcc/src/media/precisao.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tes</find>
+      <find>Pro</find>
+      <find>registro.log()</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gabriel &lt;gschmitz.geomais@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Segurança/validaCSV.py" />
+        <option value="$PROJECT_DIR$/Segurança/main.py" />
+        <option value="$PROJECT_DIR$/Modelos/gisele.py" />
+        <option value="$PROJECT_DIR$/tcc/utils/validaCSV.py" />
+        <option value="$PROJECT_DIR$/tcc/tcc/utils/apriori.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/utils/apriori.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/utils/kmeans.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/classificador/classificador.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/utils/validaCSV.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/utils/normalizacao.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/test.py" />
+        <option value="$PROJECT_DIR$/tccSVM/tcc/utils/nota.txt" />
+        <option value="$PROJECT_DIR$/tccSVM/test.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/scaled_df.csv" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/pima_indians.csv" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/store_data.csv" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/kmeans.csv" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/example.log" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/Kmeans.csv" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/log.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/kmeans.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/registro.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/test.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/nota.txt" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/apriori.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/validaArquivo.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/media/log.log" />
+        <option value="$PROJECT_DIR$/tccSVM/src/classificador/svm.py" />
+        <option value="$PROJECT_DIR$/tccSVM/src/utils/normalizacao.py" />
+        <option value="$PROJECT_DIR$/tccSVM/__init__.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/validaArquivo.py" />
+        <option value="$PROJECT_DIR$/tcc/src/media/log.log" />
+        <option value="$PROJECT_DIR$/tcc/__init__.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/kmeans.py" />
+        <option value="$PROJECT_DIR$/tcc/main.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/registro.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/conector_postgres.py" />
+        <option value="$PROJECT_DIR$/tcc/src/media/data_frame_normalizado.csv" />
+        <option value="$PROJECT_DIR$/tcc/src/classificador/objeto.py" />
+        <option value="$PROJECT_DIR$/tcc/src/classificador/svm.py.bkp2" />
+        <option value="$PROJECT_DIR$/tcc/src/media/teste.csv" />
+        <option value="$PROJECT_DIR$/tcc/src/media/pima_indians.csv" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/verificaArquivo.py" />
+        <option value="$PROJECT_DIR$/../TCC---pycharm/train_normalized.csv" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/test.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/normalizacao.py" />
+        <option value="$PROJECT_DIR$/tcc/src/media/SVM.csv" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/apriori.py" />
+        <option value="$PROJECT_DIR$/tcc/src/classificador/svm.py" />
+        <option value="$PROJECT_DIR$/tcc/src/utils/main.py" />
+        <option value="$PROJECT_DIR$/tcc/src/media/precisao.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Buildout</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>YAML</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="TCC" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="TCC" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="tcc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+              <item name="tcc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+              <item name="tcc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+              <item name="tcc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="classificador" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+              <item name="tcc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TCC" type="462c0819:PsiDirectoryNode" />
+              <item name="tcc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tcc\src\utils" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tcc" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM\src\media" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM\src\utils" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tcc\src\classificador" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM\tcc\media" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM\tcc\classificador" />
+      <recent name="C:\Users\gabri\Desenvolvimento\Python\TCC\tccSVM\tcc\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tcc/src/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcc/src/utils/apriori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tcc/src/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcc/src/utils/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="normalization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TCC---pycharm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TCC---pycharm/normalization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tcc/src/classificador" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcc/src/classificador/svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tcc/src/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcc/src/utils/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.apriori" />
+      <item itemvalue="Python.normalization" />
+      <item itemvalue="Python.svm" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.svm" />
+        <item itemvalue="Python.apriori" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.normalization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gabri\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72f0938a-76f8-4da4-86ef-5a471b052fad" name="Default Changelist" comment="" />
+      <created>1540846426161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540846426161</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ajustes Finais">
+      <created>1542338675853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542338675853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49114332" visible="true" weight="0.30059522" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.35565478" />
+      <window_info id="Favorites" order="2" sideWeight="0.50885665" side_tool="true" weight="0.35565478" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="Run" order="2" sideWeight="0.4984756" weight="0.50402576" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015244" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49114332" visible="true" weight="0.35724962" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.35565478" />
+      <window_info id="Favorites" order="2" sideWeight="0.50885665" side_tool="true" weight="0.35565478" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="Run" order="2" sideWeight="0.4984756" visible="true" weight="0.36876008" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015244" side_tool="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32850242" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajustes Finais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes Finais" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dfNormalizada.shape[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/utils/apriori.py" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/utils/validaArquivo.py" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/media/log.log" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/utils/registro.py" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/classificador/svm.py" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/src/utils/normalizacao.py" />
+    <entry file="file://$PROJECT_DIR$/tccSVM/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/log.log" />
+    <entry file="file://$PROJECT_DIR$/tcc/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="1848" selection-start-line="1848" selection-end-line="1848" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/kmeans.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="521" selection-start-line="521" selection-end-line="521" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/classificador/svm.py.bkp" />
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/data_frame_normalizado.csv" />
+    <entry file="file://$PROJECT_DIR$/tcc/src/classificador/objeto.py" />
+    <entry file="file://$PROJECT_DIR$/tcc/src/classificador/svm.py.bkp2" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="4000" selection-start-line="4000" selection-end-line="4000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="4529" selection-start-line="4529" selection-end-line="4529" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/teste.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="566" selection-start-line="566" selection-end-line="566" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="287" selection-start-line="287" selection-end-line="287" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/resultado.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/externals/joblib/externals/cloudpickle/cloudpickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/seaborn/axisgrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="1398" selection-start-line="1398" selection-end-line="1398" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/seaborn/distributions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="365" selection-start-line="365" selection-end-line="365" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/stats/kde.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="509" selection-start-line="509" selection-end-line="509" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/scipy/linalg/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="981" column="13" lean-forward="true" selection-start-line="981" selection-start-column="13" selection-end-line="981" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/requeriments.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/conector_postgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/train.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/preprocessing/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="322" selection-start-line="322" selection-end-line="322" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCC---pycharm/train_normalized.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/verificaArquivo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCC---pycharm/train_clustered.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCC---pycharm/normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="84" column="20" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/registro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/Apriori.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="3110" selection-start-line="3110" selection-end-line="3110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="3696" selection-start-line="3696" selection-end-line="3696" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4403" selection-start-line="4403" selection-end-line="4403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/pima_indians.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/SVM.csv">
+      <provider editor-type-id="csv-text-editor">
+        <state relative-caret-position="65">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/normalizacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/registro.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="84">
+          <caret line="16641" lean-forward="true" selection-start-line="16641" selection-end-line="16641" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/resultados.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/classificador/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/utils/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="60" selection-start-line="36" selection-start-column="60" selection-end-line="36" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcc/src/media/precisao.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
