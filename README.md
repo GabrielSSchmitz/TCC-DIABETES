@@ -8,9 +8,9 @@ Códificação do TCC, linguagem Python
 
 #### Faculdade IES/FASC
 
-Tema: Aprendizagem de máquina aplicada a predição de doença.
+**Tema:** Aprendizagem de máquina aplicada a predição de doença.
 
-Autor: Gabriel Schmitz
+**Autor:** Gabriel Schmitz
 
 #### RESUMO
 
