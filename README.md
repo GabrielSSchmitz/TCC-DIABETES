@@ -15,27 +15,28 @@ Códificação do TCC, linguagem Python
 #### RESUMO
 
 <p align="justify">
-A Diabetes Mellitus (Diabetes) é uma doença de categoria crônica,
-que quando não tratada, pode gerar sintomas como cetoacidose,
-polidipsia, polfagia e até mesmo a morte. Os métodos de sua detecção
-prévia mais conhecidos são seguros, porem lentos (e.g. teste oral de
-glicose e glicemia de jejum) ou são rápidos, porém possuem incertezas
-em seus resultados (e.g. teste glicêmico). Este é uma das maiores barreiras
-de quem porta a doença, a detecção prévia e rápida, pois dependendo de
-seu estágio, a doença não apresenta sintomas e sem o tratamento
-adequado em um estágio inicial, a doença pode se agravar podendo se
-tornar incurável. Para a resolução deste problema, pesquisas como de
-Viera, Parreira e Silveira propuseram o uso de perceptrons para
-classificar se um indivíduo possui ou não a Diabetes, utilizando em seu
-trabalho o conjunto de dados Pima Indians, porém em seu melhor
-resultado os perceptrons apresentaram uma precisão de 78.7% na
-classificação, algo que deu origem a este trabalho, que tem como objetivo
-aplicar outras técnicas de Inteligência Artificial como a Mineração de
-  Regras de Associação Apriori e o algoritmo de <i>Support Vector Machines</i>
-(SVM) e verificar se é possível obter uma precisão maior na classificação.
-Ao fim deste trabalho foi obtido 79.20% de precisão, cerca de 0.50% a
-mais que o resultado obtido por Viera, Parreira e Silveira.
-
+  <i>
+Diabetes Mellitus (Diabetes) is a chronic disease, which when
+untreated can culminate in a certain period of time, various types of
+symptoms like ketoacidosis, polydipsia, polyphagia or even death. The
+best known methods for detecting disease are slow but safe, as in the
+case of the Oral to Glucose Test or Fasting Glycemic Test, or fast but
+uncertain, such as the Glycemic Test (MILICH, 2014).
+This is one of the biggest barriers of those who carry the
+disease, prior detection and rapid, because depending on the stage of the
+disease, the disease has no symptoms and if not receive the treatment,
+the disease may become worse and may become incurable.
+Artificial Intelligence methods were applied, such as the Apriori
+association rules mining algorithm and Support Vector Machines
+supervised learning, to identify who has or not the disease in data set
+Pima Indians, in the same way as the Viera, Parreira and Silveira
+research, which they used at the time the technic Perceptron, but with
+greater speed and degree of precision, also allowing the patient to obtain
+the prognosis in an unconventional way.
+The results of the SVM with 79.50% accuracy, 0.50% higher
+compared to the work of Vieira, Parreira and Silveira were obtained in
+this work.
+  </i>
 </p>
 
 **Palavras-chave**: Diabetes, Aprendizado de Máquina, Inteligência
