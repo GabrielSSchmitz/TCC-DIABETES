@@ -1,6 +1,6 @@
 ![alt text](http://www.ies.edu.br/assets/img/logo.png)
 
-# PROGNÓSTICOS DE DIABETES ATRAVÉS DE SUPPORT VECTOR MACHINES
+# DIABETES PROGNOSTICS THROUGH SUPPORT VECTOR MACHINES
 
 ## Completion of course work
 TCC coding, Python language
