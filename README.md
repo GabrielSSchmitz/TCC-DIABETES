@@ -2,17 +2,16 @@
 
 # PROGNÓSTICOS DE DIABETES ATRAVÉS DE SUPPORT VECTOR MACHINES
 
-## Trabalho de conclusão de curso
-Códificação do TCC, linguagem Python
+## Completion of course work
+TCC coding, Python language
 
+#### College IES/FASC
 
-#### Faculdade IES/FASC
+**Theme:** Machine learning applied to disease prediction.
 
-**Tema:** Aprendizagem de máquina aplicada a predição de doença.
+**Author:** Gabriel Schmitz
 
-**Autor:** Gabriel Schmitz
-
-#### RESUMO
+#### SUMMARY
 
 <p align="justify">
   <i>
@@ -39,5 +38,4 @@ this work.
   </i>
 </p>
 
-**Palavras-chave**: Diabetes, Aprendizado de Máquina, Inteligência
-Artificial, Rede Neural Artificial, Python, KDD, SVM, Apriori.
+**Key words**: Diabetes, Machine Learning, Artificial Intelligence, Artificial Neural Network, Python, KDD, SVM, Apriori.
