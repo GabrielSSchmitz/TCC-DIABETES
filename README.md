@@ -2,7 +2,7 @@
 
 # DIABETES PROGNOSTICS THROUGH SUPPORT VECTOR MACHINES
 
-## Completion of course work
+## Completion of course work ( TCC - Trabalho conclusão de Curso )
 TCC coding, Python language
 
 #### College IES/FASC
