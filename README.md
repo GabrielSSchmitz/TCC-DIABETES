@@ -1,4 +1,4 @@
-![alt text](http://www.ies.edu.br/assets/img/logo.png)
+![alt text](https://www.ies.edu.br/assets/img/logo.png)
 
 # DIABETES PROGNOSTICS THROUGH SUPPORT VECTOR MACHINES
 
